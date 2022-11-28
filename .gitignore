@@ -1,0 +1,10 @@
+# screenshots
+evidence/
+*.html
+assets/
+*.log
+
+# system directories
+__pycache__/
+.pytest_cache/
+.vscode/
